@@ -3,4 +3,20 @@
 .navbar {
   background: image_url('pw_maze_black.png');
   box-shadow: 0px 1px 3px #2a2a2a;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 400;
+  letter-spacing: .5px;
+}
+
+.navbar-inverse a.navbar-brand {
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 400;
+  color: white;
+}
+
+body {
+  padding-top: 55px;
 }
