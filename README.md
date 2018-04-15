@@ -1,24 +1,7 @@
-# README
+# Flixter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![flixter](https://user-images.githubusercontent.com/25302190/38784176-6b290b7e-40cb-11e8-95e8-821206fc3ccd.png)
 
-Things you may want to cover:
+A two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Deployed Here](https://flixter-jay-johnson.herokuapp.com/)
